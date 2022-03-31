@@ -15,5 +15,3 @@ Diferente das bibliotecas o framework é um conjunto de componentes contendo uma
 
 - https://www.portalgsti.com.br/2017/11/frameworks-e-bibliotecas.html#:~:text=As%20bibliotecas%20usam%20seu%20c%C3%B3digo,com%20a%20base%20em%20JavaScript.
 - https://www.dio.me/articles/biblioteca-vs-framework
-
-
